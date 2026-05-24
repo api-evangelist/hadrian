@@ -1,0 +1,65 @@
+aid: hadrian
+name: Hadrian
+description: >-
+  Hadrian (Hadrian Automation) is a Los Angeles-area precision-manufacturing
+  company founded in 2020 by Chris Power, building software-driven,
+  AI-powered factories that produce high-tolerance machined components for
+  the aerospace and defense industrial base — including parts for rockets,
+  satellites, jets, drones, and missiles. The company's core software stack
+  is Opus, described as a full-stack, AI-powered Factory Autonomy platform
+  that interprets legacy engineering designs, automates CNC machining,
+  inspection, tool-path optimization, adaptive programming, scheduling, and
+  quality assurance, and enables new operators to be productive in 30 days
+  or less. Hadrian operates multiple factories — Factory 2 (F2) and
+  Factory X (FX) in Torrance, California, and Factory 3 (F3) in Mesa,
+  Arizona — and offers three commercial models: precision component
+  manufacturing, Manufacturing-as-a-Service (dedicated automation cells
+  for a single customer), and Factories-as-a-Service (turnkey factory
+  design and operation). Customers and partners include major aerospace
+  and defense primes such as Lockheed Martin. Hadrian has also launched
+  an additive manufacturing division to expand U.S. defense production
+  capacity. The Opus platform is internal-only — Hadrian sells finished
+  precision parts and factory capacity, not software access — and there
+  is no public developer API, SDK, GitHub organization, or open-source
+  release for Opus or any Hadrian system.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Manufacturing
+  - Precision Manufacturing
+  - Autonomous Manufacturing
+  - Factory Autonomy
+  - CNC Machining
+  - Aerospace
+  - Defense
+  - Industrial Automation
+  - Robotics
+  - AI Factory
+  - Opus Platform
+  - Additive Manufacturing
+  - Hardware
+url: https://raw.githubusercontent.com/api-evangelist/hadrian/refs/heads/main/apis.yml
+created: '2026-05-24'
+modified: '2026-05-24'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.hadrian.co
+  - type: About
+    url: https://www.hadrian.co/about
+  - type: Press
+    url: https://www.hadrian.co/press
+  - type: Careers
+    url: https://www.hadrian.co/careers
+  - type: Contact
+    url: https://www.hadrian.co/contact
+  - type: PrivacyPolicy
+    url: https://www.hadrian.co/privacy-policy
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/hadrianautomation
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
