@@ -1,0 +1,99 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "schema": "https://schema.org/",
+    "mfg": "https://www.hadrian.co/vocab#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+
+    "Hadrian": {
+      "@id": "schema:Organization",
+      "@type": "@id"
+    },
+    "name": "schema:name",
+    "url": {
+      "@id": "schema:url",
+      "@type": "@id"
+    },
+    "description": "schema:description",
+    "foundingDate": "schema:foundingDate",
+    "location": "schema:location",
+    "industry": "schema:industry",
+    "sameAs": {
+      "@id": "schema:sameAs",
+      "@type": "@id"
+    },
+
+    "Factory": {
+      "@id": "mfg:Factory",
+      "@type": "@id"
+    },
+    "factoryId": "mfg:factoryId",
+    "factoryLocation": "mfg:factoryLocation",
+    "factoryCapabilities": "mfg:factoryCapabilities",
+
+    "OpusPlatform": {
+      "@id": "mfg:OpusPlatform",
+      "@type": "@id"
+    },
+    "platformName": "mfg:platformName",
+    "platformDescription": "mfg:platformDescription",
+    "automationLevel": "mfg:automationLevel",
+
+    "PrecisionComponent": {
+      "@id": "mfg:PrecisionComponent",
+      "@type": "@id"
+    },
+    "componentMaterial": "mfg:componentMaterial",
+    "toleranceClass": "mfg:toleranceClass",
+    "industrySegment": "mfg:industrySegment",
+
+    "CNCMachine": {
+      "@id": "mfg:CNCMachine",
+      "@type": "@id"
+    },
+    "machineType": "mfg:machineType",
+    "toolPath": "mfg:toolPath",
+    "operatorLevel": "mfg:operatorLevel",
+
+    "ManufacturingService": {
+      "@id": "mfg:ManufacturingService",
+      "@type": "@id"
+    },
+    "serviceModel": "mfg:serviceModel",
+    "dedicatedCell": "mfg:dedicatedCell",
+    "turnkeyFactory": "mfg:turnkeyFactory",
+
+    "QualityInspection": {
+      "@id": "mfg:QualityInspection",
+      "@type": "@id"
+    },
+    "inspectionMethod": "mfg:inspectionMethod",
+    "qualityStandard": "mfg:qualityStandard",
+    "passRate": {
+      "@id": "mfg:passRate",
+      "@type": "xsd:decimal"
+    },
+
+    "ProductionSchedule": {
+      "@id": "mfg:ProductionSchedule",
+      "@type": "@id"
+    },
+    "scheduledStart": {
+      "@id": "mfg:scheduledStart",
+      "@type": "xsd:dateTime"
+    },
+    "scheduledEnd": {
+      "@id": "mfg:scheduledEnd",
+      "@type": "xsd:dateTime"
+    },
+    "orderStatus": "mfg:orderStatus",
+
+    "EngineeringDesign": {
+      "@id": "mfg:EngineeringDesign",
+      "@type": "@id"
+    },
+    "designFormat": "mfg:designFormat",
+    "cadFile": "mfg:cadFile",
+    "drawingRevision": "mfg:drawingRevision"
+  }
+}

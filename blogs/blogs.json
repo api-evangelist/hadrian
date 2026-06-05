@@ -1,0 +1,14 @@
+{
+  "repo": "hadrian",
+  "feeds": [
+    {
+      "source": "https://www.hadrian.co",
+      "feed_url": "https://www.hadrian.co/press",
+      "title": "Hadrian Press",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-06-05T00:00:00Z"
+}

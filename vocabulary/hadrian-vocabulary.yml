@@ -1,0 +1,171 @@
+vocabulary:
+  name: Hadrian Manufacturing Vocabulary
+  description: >-
+    Key industrial, precision-manufacturing, and factory-autonomy concepts
+    used by Hadrian (Hadrian Automation) in its operations, Opus platform,
+    and aerospace/defense supply-chain context.
+  version: "1.0.0"
+  terms:
+
+    - term: Opus Platform
+      definition: >-
+        Hadrian's proprietary, full-stack AI-powered Factory Autonomy platform
+        that interprets legacy engineering designs, automates CNC machining,
+        tool-path optimization, adaptive programming, scheduling, and quality
+        assurance across all Hadrian factories.
+      tags:
+        - software
+        - ai
+        - factory-automation
+
+    - term: Factory Autonomy
+      definition: >-
+        The operational model in which a manufacturing facility is governed
+        largely by software and AI rather than manual human programming,
+        reducing dependency on highly skilled machinists and enabling new
+        operators to achieve full productivity in 30 days or less.
+      tags:
+        - automation
+        - operations
+        - ai
+
+    - term: Precision Manufacturing
+      definition: >-
+        The production of high-tolerance machined components — such as those
+        used in rockets, satellites, jets, drones, and missiles — where
+        dimensional accuracy and surface-finish requirements are held to
+        tight engineering specifications.
+      tags:
+        - manufacturing
+        - aerospace
+        - defense
+
+    - term: CNC Machining
+      definition: >-
+        Computer Numerical Control machining: a subtractive manufacturing
+        process in which pre-programmed software directs machine tools (mills,
+        lathes, grinders) to remove material from a workpiece to achieve a
+        precise geometry.
+      tags:
+        - machining
+        - cnc
+        - manufacturing
+
+    - term: Tool-Path Optimization
+      definition: >-
+        Algorithmic generation and refinement of the cutting trajectories
+        a CNC machine follows, minimizing cycle time, tool wear, and
+        dimensional error while maintaining required tolerances.
+      tags:
+        - cnc
+        - optimization
+        - software
+
+    - term: Adaptive Programming
+      definition: >-
+        Dynamic modification of machine-control programs in response to
+        real-time measurement feedback, compensating for material variation,
+        tool wear, or thermal drift to maintain part quality without manual
+        re-programming.
+      tags:
+        - cnc
+        - ai
+        - quality
+
+    - term: Manufacturing-as-a-Service (MaaS)
+      definition: >-
+        A commercial model in which Hadrian dedicates one or more automation
+        cells exclusively to a single customer's production needs, providing
+        predictable capacity and throughput without the customer owning the
+        capital equipment.
+      tags:
+        - business-model
+        - services
+        - aerospace
+
+    - term: Factories-as-a-Service (FaaS)
+      definition: >-
+        A turnkey commercial offering in which Hadrian designs, builds, and
+        operates an entire factory on behalf of a customer, handling capital
+        equipment selection, software integration, staffing, and ongoing
+        production management.
+      tags:
+        - business-model
+        - services
+        - defense
+
+    - term: High-Tolerance Component
+      definition: >-
+        A machined part whose critical dimensions are held to very tight
+        tolerances — typically ±0.001 inch or better — as required for
+        flight-critical aerospace and defense hardware where failure is
+        not an option.
+      tags:
+        - quality
+        - aerospace
+        - defense
+        - manufacturing
+
+    - term: Additive Manufacturing
+      definition: >-
+        Layer-by-layer material deposition processes (e.g., metal 3-D printing)
+        used by Hadrian's additive division to expand U.S. defense production
+        capacity for parts that benefit from near-net-shape fabrication or
+        complex internal geometries.
+      tags:
+        - additive
+        - manufacturing
+        - defense
+
+    - term: Inspection Automation
+      definition: >-
+        The use of coordinate measuring machines (CMMs), optical scanners, and
+        AI-driven analysis to verify that manufactured parts meet dimensional
+        and surface-finish specifications, replacing or augmenting manual
+        metrology.
+      tags:
+        - quality
+        - metrology
+        - automation
+
+    - term: Industrial Base
+      definition: >-
+        The aggregate of manufacturers, suppliers, and infrastructure that
+        produce defense and aerospace hardware for national-security customers;
+        Hadrian's primary target market and the ecosystem it aims to modernize.
+      tags:
+        - defense
+        - aerospace
+        - supply-chain
+
+    - term: Legacy Engineering Design
+      definition: >-
+        Engineering drawings and CAD files — often created decades ago in
+        proprietary or paper-based formats — that the Opus platform is able
+        to interpret and translate into machine-ready programs without manual
+        re-entry by skilled programmers.
+      tags:
+        - engineering
+        - cad
+        - software
+
+    - term: Production Scheduling
+      definition: >-
+        The automated planning and sequencing of manufacturing jobs across
+        machines, tools, and operators to maximize throughput, meet delivery
+        commitments, and minimize idle time within a Hadrian factory.
+      tags:
+        - operations
+        - scheduling
+        - automation
+
+    - term: Aerospace & Defense Supply Chain
+      definition: >-
+        The network of prime contractors (e.g., Lockheed Martin), Tier 1/2/3
+        suppliers, and specialty manufacturers that collectively produce
+        aircraft, spacecraft, and weapons systems; Hadrian serves as a
+        modernized precision-machining node within this chain.
+      tags:
+        - aerospace
+        - defense
+        - supply-chain
