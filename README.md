@@ -1,4 +1,4 @@
-# hadrian
+# Hadrian
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,4 +64,92 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Hadrian — autonomous, AI-powered precision manufacturing for aerospace and defense (Opus platform)
+Hadrian (Hadrian Automation) is a Los Angeles-area precision-manufacturing company founded in 2020 by Chris Power, building software-driven, AI-powered factories that produce high-tolerance machined components for the aerospace and defense industrial base — including parts for rockets, satellites, jets, drones, and missiles. The company's core software stack is Opus, described as a full-stack, AI-powered Factory Autonomy platform that interprets legacy engineering designs, automates CNC machining, inspection, tool-path optimization, adaptive programming, scheduling, and quality assurance, and enables new operators to be productive in 30 days or less. Hadrian operates multiple factories — Factory 2 (F2) and Factory X (FX) in Torrance, California, and Factory 3 (F3) in Mesa, Arizona — and offers three commercial models: precision component manufacturing, Manufacturing-as-a-Service (dedicated automation cells for a single customer), and Factories-as-a-Service (turnkey factory design and operation). Customers and partners include major aerospace and defense primes such as Lockheed Martin. Hadrian has also launched an additive manufacturing division to expand U.S. defense production capacity. The Opus platform is internal-only — Hadrian sells finished precision parts and factory capacity, not software access — and there is no public developer API, SDK, GitHub organization, or open-source release for Opus or any Hadrian system.
+
+**Areas:** Manufacturing · Precision Manufacturing · Autonomous Manufacturing · Factory Autonomy · CNC Machining · Aerospace · Defense · Industrial Automation · Robotics · AI Factory · Opus Platform · 3D Printing
+
+## Hadrian on APIs.io
+
+Everything profiled for Hadrian is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/hadrian/](https://apis.io/providers/hadrian/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Hadrian Context](https://apis.io/jsonld/hadrian/hadrian-context/)
+
+#### Vocabulary (1)
+
+The provider's domain terms, defined.
+
+- [Hadrian Manufacturing Vocabulary](https://apis.io/vocabularies/hadrian/hadrian-vocabulary/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Hadrian Domain Security](https://apis.io/security/hadrian/hadrian-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.hadrian.co)
+- [Privacy policy](https://www.hadrian.co/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 10.6** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 49.1 |
+| Contract quality | 14.7 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 10.5 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 14.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/hadrian/](https://apis.io/providers/hadrian/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Hadrian: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/hadrian/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
